@@ -1,4 +1,4 @@
 {
   "name": "FTC Robot Controller",
-  "install": "printf 'sdk.dir=%s\\n' \"$HOME/android-sdk\" > local.properties && ./gradlew --no-daemon assembleDebug"
+  "install": "bash .cursor/install.sh"
 }
