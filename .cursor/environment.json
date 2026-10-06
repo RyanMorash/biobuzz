@@ -1,0 +1,4 @@
+{
+  "name": "FTC Robot Controller",
+  "install": "bash .cursor/install.sh"
+}
